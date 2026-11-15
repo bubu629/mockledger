@@ -1,0 +1,6 @@
+{
+  "main": "./dist/bundle.cjs",
+  "output": "./release/DataForge-win.exe",
+  "disableExperimentalSEAWarning": true,
+  "useCodeCache": true
+}
