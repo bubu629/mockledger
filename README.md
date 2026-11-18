@@ -1,25 +1,16 @@
-# DataForge Studio — Local Business Process & Reconciliation Data Factory
+# ⚙️ DataForge Studio
+**100% Air-Gapped E-Commerce Order, Payout & Multi-Channel Financial Reconciliation Sandbox.**
 
-> **Unlock Lifetime Pro License (990 Telegram Stars, One-Time Purchase):** [Buy Instantly on Telegram Store](https://t.me/Userstudiobot/Store) — Instant offline Ed25519 license key delivery via [@Userstudiobot](https://t.me/Userstudiobot).
+### 🛒 Buy Lifetime License (One-Time Purchase · No Subscription)
+* **Telegram Mini App Store (Instant Auto-Delivery):** [https://t.me/Userstudiobot/Store](https://t.me/Userstudiobot/Store)
+* **Supported Payments:** Telegram Stars (`1490 Stars`) & TON USDT (`$29.99 USDT`)
+* **Direct Support & Manual USDT Activation:** [@Userstudiobot](https://t.me/Userstudiobot)
 
-100% Local-First deterministic synthetic business data generator for E-Commerce, Stripe Payout Reconciliation, and Chaos Edge-Case testing.
+| Edition | Monthly Fee | Order Rows Reconciled | Offline Ed25519 Activation |
+| :--- | :---: | :---: | :---: |
+| **Free Preview** | $0 | Limited preview batch | Not required |
+| **Lifetime License** | **$29.99 (Once)** | **Unlimited multi-file ledger** | **Included (100% offline)** |
 
-## Features
-- **100% Local CPU Execution**: Zero cloud dependency, zero data leakage.
-- **Penny-Exact Accounting Invariants**: Every `Order -> Payment -> Refund/Dispute -> BalanceTransaction -> Bank Payout` is mathematically reconciled in integer cents.
-- **10 Pre-Planted Real-World Chaos Scenarios**: Multi-currency FX drift on refunds, uncoordinated refund + chargeback double-loss, split shipments, cross-month T+N holiday-aware settlements, and duplicate/out-of-order webhooks.
-- **Offline Ed25519 License Verification**: Instant offline activation for Personal ($39) and Pro ($99) tiers, unlocking up to 50,000 orders, custom deterministic seeds, and local PDF Bank Statement rendering.
-
-## Quick Start (Development)
-```bash
-npm install
-npm run dev
-```
-
-## Build Standalone Binaries (Windows `.exe`, macOS, Linux)
-```bash
-npm run build:all
-```
-Or push a git tag (`git tag v1.0.0 && git push origin v1.0.0`) to let the included **GitHub Actions workflow** automatically compile and attach the Windows/macOS/Linux binaries to your **GitHub Releases** page!
-
-
+### ✨ Key Features & Quick Start
+* **Automated Payout Matching:** Cross-matches gross orders against Stripe, Shopify, PayPal & Amazon payouts, fees, and chargebacks locally in seconds.
+* **Run:** Download the binary from [Releases](https://github.com/bubu629/mockledger/releases), run it locally, and unlock permanently via [User Studio Store](https://t.me/Userstudiobot/Store).
