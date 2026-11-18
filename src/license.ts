@@ -16,7 +16,7 @@ export interface LicensePayload {
 
 // Pre-injected production Ed25519 Public Key matching your generated storefront batches
 export let EMBEDDED_PUBLIC_KEY = `-----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEAkrVJlPn9Z95gQ/YNdtrPLhrkT25tDF5+l6hYgt7QLIw=
+MCowBQYDK2VwAyEAjRfipO5f8zBIxFY3ts40Z7Zj8SogCoMztww+jDgZsDw=
 -----END PUBLIC KEY-----`;
 
 const LICENSE_FILE = path.join(os.homedir(), '.dataforge', 'license.key');
