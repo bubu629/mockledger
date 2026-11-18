@@ -1,5 +1,7 @@
 # DataForge Studio — Local Business Process & Reconciliation Data Factory
 
+> **Unlock Lifetime Pro License (990 Telegram Stars, One-Time Purchase):** [Buy Instantly on Telegram Store](https://t.me/Userstudiobot/Store) — Instant offline Ed25519 license key delivery via [@Userstudiobot](https://t.me/Userstudiobot).
+
 100% Local-First deterministic synthetic business data generator for E-Commerce, Stripe Payout Reconciliation, and Chaos Edge-Case testing.
 
 ## Features

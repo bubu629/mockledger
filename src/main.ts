@@ -173,7 +173,7 @@ app.get('/', async (_req, reply) => {
         <h3 style="margin-top:0;">2. Offline License Key</h3>
         <label>Paste DF1.xxx License Key (Saved permanently to ~/.dataforge)</label>
         <input type="text" id="licenseKey" placeholder="DF1.eyJsaWNlbnNlX2lk..." />
-        <button style="background:#059669;" onclick="activateLicense()">Verify & Save Offline License</button>
+        <button style="background:#059669;" onclick="activateLicense()">Verify & Save Offline License</button> <a href="https://t.me/Userstudiobot/Store" target="_blank" style="display:inline-block;margin-left:8px;padding:8px 14px;background:#2481cc;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;font-size:13px;">Buy License Key ↗</a>
         <h3 style="margin-top:20px;">3. Local Execution Output</h3>
         <pre id="outputLog">Ready.</pre>
       </div>
